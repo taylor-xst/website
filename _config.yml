@@ -1,6 +1,6 @@
 # Site settings
-title: "范淼博士的个人主页"
-description: "范淼博士的个人中文主页。"
+title: "徐晟桐的个人主页"
+description: "徐晟桐的个人主页。"
 
 # Build settings
 markdown: kramdown
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "范淼"
+resume_name:                    "徐晟桐"
 resume_title:                   "个人简介"
 
 # used for the contact button in _layouts/resume.html
@@ -30,8 +30,6 @@ resume_header_intro: "
 <p>清华大学软件学院博士后、计算机系工学博士。</p>
 
 <p>AI专业畅销书《Python机器学习及实践：从零开始通往Kaggle竞赛之路》作者。 </p>
-
-<p>在国际顶级期刊、会议上发表论文20余篇，谷歌学术引用850余次。</p>
 
 <p>获美国、中国发明专利授权18项。</p>
 "
