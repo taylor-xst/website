@@ -1,0 +1,14 @@
+- name: 《Python机器学习及实践：从零开始通往Kaggle竞赛之路（2022年度版）》
+  authors: 范淼、徐晟桐 著
+  press: 清华大学出版社
+  url: "https://item.jd.com/13482761.html"
+  code1: 源码地址（中国大陆）：<a href="https://gitee.com/godfanmiao/ML-Kaggle-Gitee-2022">https://gitee.com/godfanmiao/ML-Kaggle-Gitee-2022</a>
+  code2: 源码地址（港、澳、台，以及海外地区）：<a href="https://github.com/godfanmiao/ML-Kaggle-Github-2022">https://github.com/godfanmiao/ML-Kaggle-Github-2022</a>
+
+- name: 《Python机器学习及实践：从零开始通往Kaggle竞赛之路（2016年度版）》
+  authors: 范淼、李超 编著
+  press: 清华大学出版社
+  url: "https://item.jd.com/11983227.html"
+  code1: 源码地址（中国大陆）：<a href="https://gitee.com/godfanmiao/ML-Kaggle-Gitee-2016">https://gitee.com/godfanmiao/ML-Kaggle-Gitee-2016</a>
+  code2: 源码地址（港、澳、台，以及海外地区）：<a href="https://github.com/godfanmiao/ML-Kaggle-Github-2016">https://github.com/godfanmiao/ML-Kaggle-Github-2016</a>
+
