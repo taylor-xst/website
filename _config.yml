@@ -14,7 +14,7 @@ resume_name:                    "徐晟桐"
 resume_title:                   "个人简介"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "fanmiao.cslt.thu@gmail.com"
+resume_contact_email:           "taylorxst@163.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "13581700448"
@@ -25,13 +25,13 @@ display_header_contact_info:    "false"
 
 resume_header_intro: "
 
-<p>高级研发总监；中国人民大学信息资源管理学院研究生行业导师。</p>
+<p>在线办公软件行业高级产品经理。</p>
 
-<p>澳洲国立大学XXX硕士、南开大学XX。</p>
+<p>澳洲国立大学经济学硕士、南开大学经济学学士。</p>
 
 <p>《Python机器学习及实践：从零开始通往Kaggle竞赛之路》作者。 </p>
 
-<p>获美国、中国发明专利授权XX项。</p>
+<p>获中国GUI外观设计专利授权10项。</p>
 "
 
 # use "yes" to display the email contact button,
@@ -57,13 +57,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/godfanmiao/"
+  resume_github_url:            "https://github.com/taylor-xst"
   #resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "https://scholar.google.com/citations?user=aPlHReAAAAAJ&hl=zh-CN"
+  # resume_website_url:           "https://scholar.google.com/citations?user=aPlHReAAAAAJ&hl=zh-CN"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
