@@ -25,13 +25,13 @@ display_header_contact_info:    "false"
 
 resume_header_intro: "
 
-<p>汽车之家高级产品经理，工程师（职称：中级）。</p>
+<p>汽车之家高级产品经理，工程师（职称：中级）</p>
 
-<p>澳洲国立大学金融学硕士、南开大学经济学学士。</p>
+<p>澳洲国立大学金融学硕士、南开大学经济学学士</p>
 
-<p>《Python机器学习及实践：从零开始通往Kaggle竞赛之路》、《Python人工智能编程实践》等书籍作者。 </p>
+<p>专业畅销书《Python机器学习及实践》、《Python人工智能编程实践》作者</p>
 
-<p>获美国、中国发明专利授权3项；GUI外观设计专利授权10项。</p>
+<p>获美国、中国发明专利授权3项；GUI外观设计专利授权10项</p>
 "
 
 # use "yes" to display the email contact button,
